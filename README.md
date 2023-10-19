@@ -23,13 +23,19 @@
 
  *Essas são algumas linguagens que estou aprendendo ou pretendo estudar!* 👨🏽‍💻
  <div style="display: inline_block"><br>
- <img align="center" alt="Ericdev" height="40" width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
+ <img align="center" alt="Ericdev" height="40" width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/javascript.svg">
   <img align="center" alt="Ericdev" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ericdev" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ericdev" height="35" width="35" src="https://code.visualstudio.com/assets/images/code-stable.png">
 
 </div>
   
+## Ferramentas
+
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Ericdev" height="35" width="35" src="https://code.visualstudio.com/assets/images/code-stable.png">
+  <img align="center" alt="Ericdev" height="35" width="35" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg">
+  <img align="center" alt="Ericdev" height="35" width="35" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/git.svg">
+
 ##
 
 ## Github Stats
