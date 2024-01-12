@@ -1,6 +1,6 @@
 # Olá! Eu sou o Eric Assis 👋
 
-- 🖥️ Hoje trabalho como Analista de suporte N1.
+- 🖥️ Hoje trabalho como Analista de suporte.
 - 📚 Atualmente eu estou migrando minha carreira para area de programação. Estou fazendo um bootcamp bem legal da DIO.me em parceria com a Ifood para aprender programação do zero (Potência Tech iFood - Programação do Zero).
 - ✏️ Estudando Desenvolvimento de software FullStack
 - 🎮 Gosto de estudar sobre tecnologia, jogar, ir à praia e sair com os amigos.
