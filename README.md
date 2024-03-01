@@ -1,9 +1,8 @@
 <div align="center">
     <img height="150em" src="https://github.com/EricAssisdev/EricAssisdev/blob/main/gifs-de-programador-3-unscreen.gif"/>
 </div>
-
-<h2 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Eric Assis</h2>
 <img align="right" height="450em" src="https://github.com/EricAssisdev/EricAssisdev/assets/64323583/dd43dbad-5759-4b54-9e80-d74e8f7a7aaf"/>
+<h2 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Eric Assis</h2>
 <h3 align="center">Alguém fissurado por tecnologia!</h3>
 
 <h3 align="center">📫 Como entrar em contato comigo <a href="mailto:contatoericassis@gmail.com">contatoericassis@gmail.com</a></h3>
@@ -48,5 +47,5 @@
 
 <h3>Meus Principais Projetos</h3>
 <div>
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EricAssisDev&repo=cursoCubos&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EricAssisDev&repo=cursoCubos&theme=dracula" alt="github-readme-streak-stats">
 </div>
