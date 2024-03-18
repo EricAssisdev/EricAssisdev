@@ -47,5 +47,5 @@
 
 <h3>Meus Principais Projetos</h3>
 <div>
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EricAssisDev&repo=desafio-backend-m2-t15&theme=dracula" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EricAssisDev&repo=desafio-backend-m02-t15-pub&theme=dracula" alt="github-readme-streak-stats">
 </div>
